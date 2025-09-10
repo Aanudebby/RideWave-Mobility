@@ -24,7 +24,7 @@ Customers – unique IDs, booking patterns.
 
 Drivers/Vehicles – type, trips completed, revenue share.
 
-Payments – method used, transaction values.
+Payments – method used, transaction values.<br>
 <img width="1322" height="425" alt="image" src="https://github.com/user-attachments/assets/1456d209-71c9-42bf-a4ef-f82abbea7da7" />
 
 ## Dashboard
