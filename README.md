@@ -1,4 +1,5 @@
 # RideWave Mobility Report 
+<img width="3640" height="2040" alt="mobile-app-location-digital-art" src="https://github.com/user-attachments/assets/aea8fdce-542c-4bef-bb7a-38dc54fe83e3" />
 
 ## Introduction
 The RideWave Mobility project provides an end-to-end analysis of ride-hailing activity across trips, customers, and drivers. Using business intelligence tools, the project explores demand trends, revenue performance, and customer patterns to support smarter business decisions.
