@@ -42,7 +42,6 @@ Key visuals include:
 
 - Peak Demand by Day & Hour
 
- The dashboard is available here:<br>
 👉 [Click here to view the interactive dashboard](https://lookerstudio.google.com/reporting/e8378381-31bb-4f73-8b9a-4acf69472923)
 
 
